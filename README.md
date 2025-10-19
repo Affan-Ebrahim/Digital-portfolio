@@ -61,8 +61,8 @@
 <img width="1784" height="522" alt="Business Communication" src="https://github.com/user-attachments/assets/a329763c-6648-484b-b24a-e9fb99da699a" />
 
 ### Reflection (STAR)
-**Situation**:  I had to write a formal email to a lecturer to request an extension for a project deadline.
-**Task**:  My task was to communicate my request clearly and professionally, justifying my reason without making excuses, and to maintain a positive relationship with the lecturer.
+**Situation**: I had to write a formal email to a lecturer to request an extension for a project deadline.
+**Task**: My task was to communicate my request clearly and professionally, justifying my reason without making excuses, and to maintain a positive relationship with the lecturer.
 **Action**: I used a clear subject line, a formal salutation, and a polite tone. I stated my request upfront, provided a concise and honest reason for the delay, acknowledged the inconvenience, and proposed a new submission date. I proofread the email for clarity and errors before sending.
 **Result**: The lecturer replied promptly and granted the extension. They commended me for my professional communication. This resulted in less stress and a better final project submission.
 
@@ -84,8 +84,8 @@
 
 
 ### Reflection (STAR)
-**Situation**:  I participated in a recorded mock interview
-**Task**:  My task was to present myself as a competent and confident candidate
+**Situation**: I participated in a recorded mock interview
+**Task**: My task was to present myself as a competent and confident candidate
 **Action**: I dressed professionally, ensured my background was tidy, and tested my tech beforehand. I listened carefully to questions, paused to think before answering, and used the STAR method for behavioural questions. I also prepared thoughtful questions to ask the interviewer about the company culture.
 **Result**: The feedback highlighted my strong technical knowledge but suggested I speak slower. Reviewing the recording, I noticed I used filler words when nervous. This was a valuable insight, and I am now practicing to speak more deliberately to appear more confident.
 
@@ -113,5 +113,6 @@
 **Task**:  My task was to contribute effectively while demonstrating respect, reliability, and professionalism in a virtual team setting
 **Action**: I was always punctual for our online meetings and came prepared. I communicated proactively on our Teams channel if I was facing delays. I actively listened to teammates' ideas without interrupting, provided constructive feedback, and reliably completed my assigned tasks by the deadlines we set together.
 **Result**: This fostered a trusting and collaborative environment. Our team dynamic was positive and efficient, which directly contributed to us submitting a high-quality project on time and receiving a distinction. I learned that strong workplace etiquette is crucial for team success.
+
 
 
