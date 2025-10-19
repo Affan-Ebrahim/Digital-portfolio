@@ -52,4 +52,9 @@
 **Situation**: I had to begin applying for internships.  
 **Task**: Submit my CV to job applications.  
 **Action**: Registered on job sites and uploaded my CV.  
+
 **Result**: I’ve started applying to real job opportunities.
+
+## Business Communication
+### Evidence
+![Business Communication](Images/Business Communication.PNG)
