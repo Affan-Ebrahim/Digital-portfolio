@@ -55,6 +55,6 @@
 
 **Result**: I’ve started applying to real job opportunities.
 
-## Business Communication
-### Evidence
-![Business Communication](Images/Business Communication.PNG)
+
+
+
