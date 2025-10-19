@@ -56,5 +56,7 @@
 **Result**: I’ve started applying to real job opportunities.
 
 
+## Business Communication
+### Evidence
 
-
+<img width="1784" height="522" alt="Business Communication" src="https://github.com/user-attachments/assets/a329763c-6648-484b-b24a-e9fb99da699a" />
