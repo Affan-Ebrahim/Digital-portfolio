@@ -52,7 +52,6 @@
 **Situation**: I had to begin applying for internships.  
 **Task**: Submit my CV to job applications.  
 **Action**: Registered on job sites and uploaded my CV.  
-
 **Result**: I’ve started applying to real job opportunities.
 
 
@@ -60,3 +59,58 @@
 ### Evidence
 
 <img width="1784" height="522" alt="Business Communication" src="https://github.com/user-attachments/assets/a329763c-6648-484b-b24a-e9fb99da699a" />
+
+### Reflection (STAR)
+**Situation**:  
+**Task**:  
+**Action**: 
+**Result**: 
+
+## Interview Skills
+### Evidence
+
+<img width="1774" height="480" alt="Interview Skills" src="https://github.com/user-attachments/assets/4bef09de-ed1c-4f2a-a71a-c328867b6c11" />
+
+### Reflection (STAR)
+**Situation**:  
+**Task**:  
+**Action**: 
+**Result**: 
+
+## Mock Interview
+### Evidence
+
+<img width="1783" height="385" alt="Mock Interview" src="https://github.com/user-attachments/assets/6fc12bc7-862c-4296-ab76-5443edac0095" />
+
+
+### Reflection (STAR)
+**Situation**:  
+**Task**:  
+**Action**: 
+**Result**: 
+
+## Professional Networking
+### Evidence
+
+
+<img width="1777" height="472" alt="Professional Networking" src="https://github.com/user-attachments/assets/7ea52947-5b39-4850-973c-a4f5d741a867" />
+
+### Reflection (STAR)
+**Situation**:  
+**Task**:  
+**Action**: 
+**Result**: 
+
+
+## Workplace Etiquette
+### Evidence
+
+<img width="1765" height="509" alt="Workplace" src="https://github.com/user-attachments/assets/674e9e37-3dc3-440f-9cea-78a1019f20a1" />
+
+
+### Reflection (STAR)
+**Situation**:  
+**Task**:  
+**Action**: 
+**Result**: 
+
